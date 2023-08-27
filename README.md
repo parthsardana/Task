@@ -24,8 +24,8 @@ Provide step-by-step instructions on how to install your project.
 
 bash
 Copy code
-# Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+
+
 
 # Change directory
 cd your-repo
