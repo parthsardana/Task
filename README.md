@@ -26,15 +26,6 @@ bash
 Copy code
 
 
-
-# Change directory
-cd your-repo
-
-# Install required packages
-pip install -r requirements.txt
-Usage
-Explain how to use your project, including examples or code snippets if applicable.
-
 bash
 Copy code
 # Run the pose estimation and person detection
